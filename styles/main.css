@@ -18,18 +18,61 @@
 .page1 article{
     height: 600px;
     margin: 0 30px 20px 40px;
-    background-color: #FF0000;
+    background-color: rgba(6, 116, 0, 0.69);
 
 }
 .page1 div{
     height: 400px;
     margin: 0 10px 30px 60px;
-    background-color: #FF00F2;
-    
+    background-color: #960000;
 }
 .page1 aside{
     height: 300px;
     margin: 0 40px 0 30px;
-    background-color: #CA0000;
-    
+    background-color: rgba(17, 0, 202, 0.57);
+}
+.page2{
+    width: 895px;
+    height: 950px;
+    margin: 60px 0 0 80px;
+    background-color: rgba(3, 122, 3, 0.64);
+    padding: 30px 0 25px 0;
+}
+.page2a{
+    width: 835px;
+    height: 260px;
+    margin: 30px 20px 15px 40px;
+    background-color: #A58A06;
+    padding-top: 10px;
+}
+.page2aa{
+    width: 800px;
+    height: 100px;
+    margin: 30px 15px 20px 20px;
+    background-color: brown;
+}
+.page2aaa{
+    width: 800px;
+    height: 100px;
+    margin: 20px 15px 10px 20px;
+    background-color: hotpink;
+}
+.page2ab{
+    width: 835px;
+    height: 350px;
+    margin: 15px 30px 20px 30px;
+    background-color: mediumseagreen;
+    padding-top: 10px;
+}
+.page2ac{
+    width: 800px;
+    height: 300px;
+    margin: 30px 25px 20px 10px;
+    background-color: navy;
+}
+.page2c{
+    width: 835px;
+    height: 250px;
+    margin: 20px 15px 25px 25px;
+    background-color: darkturquoise;
 }
