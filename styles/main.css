@@ -35,7 +35,7 @@
     width: 895px;
     height: 950px;
     margin: 60px 0 0 80px;
-    background-color: rgba(3, 122, 3, 0.64);
+    background-color: rgba(23, 207, 23, 0.64);
     padding: 30px 0 25px 0;
 }
 .page2a{
@@ -152,5 +152,91 @@
     width: 900px;
     height: 1100;
     margin: 30px;
-    
+    background-color: gainsboro;
+    padding: 10px
+}
+.page4c{
+    width: 880px;
+    height: 520px;
+    margin: 20px 10px;
+    background-color: blueviolet;
+    padding: 10px;
+}
+.page4d{
+    width: 840px;
+    height: 500;
+    margin: 20px 10px;
+    background-color: white;
+}
+.page4e{
+    width: 780px;
+    height: 460;
+    margin: 20px 30px;
+    background-color: gold;
+    padding: 10px;
+}
+.page4f{
+    width: 880px;
+    height: 520;
+    margin: 20px 10px;
+    background-color: hotpink;
+    padding: 10px;
+}
+.pageg{
+    width: 840px;
+    height: 500;
+    margin: 20px 10px;
+    background-color: firebrick;
+    padding: 10px;
+}
+.page4h{
+    width: 780px;
+    height: 460px;
+    margin: 20px 30px;
+    background-color: tomato;
+    padding: 10px;
+}
+.page5{
+    width: 900px;
+    height: 1480;
+    margin: 70px 60px;
+    background-color: black;
+}
+.page5a{
+    width: 800;
+    height: 1200;
+    margin: 20px 60px 40px 40px;
+    background-color: red;
+    padding: 10px;
+}
+.page5b{
+    width: 760px;
+    height: 300;
+    margin: 20px 30px 30px 30px;
+    background-color: blue;
+    padding: 10px,
+}
+.page5c{
+    width: 760px;
+    height: 300px;
+    margin: 30px 20px 15px 40px;
+    background-color: white;
+}
+.page5d{
+    width: 760px;
+    height: 300px;
+    margin: 15px 40px 15px 20px;
+    background-color: wheat;
+}
+.page5e{
+    width: 760px;
+    height: 200;
+    margin: 15px 45p 20px 15px;
+    background-color: purple;
+}
+.page5f{
+    width: 700px;
+    height: 200px;
+    margin: 40px 100px 60px 100px;
+    background-color: rebeccapurple;
 }
